@@ -35,4 +35,4 @@ function SearchUser(){
     )
 }
 
-export default SearchUser
+export default SearchUser;
